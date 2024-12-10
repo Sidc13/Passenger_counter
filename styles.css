@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-size: contain;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(162, 48, 48);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 2px;
+    border-color: black;
+}
+
+#increment-btn {
+    background-color: rebeccapurple;
+    padding: 5%;
+    color: rgb(232, 217, 218);
+}
+
+#save-btn {
+    background-color: darkgreen;
+    padding: 5%;
+    color: rgb(232, 217, 218);
+    
+}
+
+#reset-btn {
+    background-color: brown;
+    padding : 5%;
+    color:rgb(232, 217, 218)
+}
+
+#forthewidth{
+    align-self: center;
+    align-content: center;
+    justify-content: center;
+    max-width: fit-content;
+    padding: 10%;
+    background-color: rgb(172, 151, 119);
+    border: 4px;
+    border-radius: 5%;
+    border-color: white;
+}
